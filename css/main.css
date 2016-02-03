@@ -1,0 +1,84 @@
+.container{
+	width: 700px;
+	margin: 0 auto;
+}
+li{
+	display: inline;
+	border-right: 1px solid black;
+	padding: 5px;
+	list-style-type: none;
+
+}
+.imgrup{
+	height: 400px;
+	width: 700px;
+}
+.img{
+	height: 150px;
+	width: 150px;
+}
+#hr2{
+	background-color: black;
+	height: 3px;
+	margin-left: 0%;
+	margin-right: 90%;
+}
+.coder1{
+	background-image: url("C:/Users/Alumna/Desktop/NayeliCarbajal/primerLayout/img/profile-1.png");
+	background-size: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.coder2{
+	background-image: url("C:/Users/Alumna/Desktop/NayeliCarbajal/primerLayout/img/profile-2.png");
+	background-size: 100%;
+	position: absolute;
+	left: 560px;
+}
+.coder3{
+	background-image: url("C:/Users/Alumna/Desktop/NayeliCarbajal/primerLayout/img/profile-3.png");
+	background-size: 100%;
+	position: absolute;
+	left: 800px;
+}
+.coder4{
+	background-image: url("C:/Users/Alumna/Desktop/NayeliCarbajal/primerLayout/img/profile-4.png");
+	background-size: 100%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.coder5{
+	background-image: url("C:/Users/Alumna/Desktop/NayeliCarbajal/primerLayout/img/profile-5.png");
+	background-size: 100%;
+	position: absolute;
+	left: 560px;
+}
+.coder6{
+	background-image: url("C:/Users/Alumna/Desktop/NayeliCarbajal/primerLayout/img/profile-6.png");
+	background-size: 100%;
+	position: absolute;
+	left: 800px;
+}
+
+.brillo{
+	-webkit-filter:brightness(55%);
+	filter:brightness(55%);
+}
+p{
+	color: white;
+	margin-top: 130px;
+	margin-left: 20px;
+	position: absolute;
+}
+
+#line{
+	border: 1px solid gray;
+	margin-right: 45%;
+	margin-left: 45%
+}
+span{
+	margin-left: 35%;
+	margin-right: 35%;
+	text-align: center;
+}
